@@ -1,0 +1,11 @@
+<component name="libraryTable">
+  <library name="CaelumUtils">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/lib/CaelumUtils.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES>
+      <root url="jar://$PROJECT_DIR$/lib/CaelumUtils.jar!/" />
+    </SOURCES>
+  </library>
+</component>
