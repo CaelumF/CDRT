@@ -9,11 +9,17 @@ abstract class RobotController {
   open fun moveForward(speed: Float = curSpeed, duration: Float = 1.0f) {
 
     if(speed != curSpeed){
-
+//      curSpeed
     }
+  }
+
+  open fun moveLWForward(speed: Float = curSpeed, duration: Float = 1.0f){
+
+  }
+  open fun moveRWForward(speed: Float = curSpeed, duration: Float = 1.0f){
 
   }
 
-  abstract fun moveLWForward()
+
 
 }
