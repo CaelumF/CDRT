@@ -1190,7 +1190,13 @@
       <option name="project" value="LOCAL" />
       <updated>1462128135709</updated>
     </task>
-    <option name="localTasksCounter" value="4" />
+    <task id="LOCAL-00004" summary="Removed workspace.xml&#10;">
+      <created>1462129041981</created>
+      <option name="number" value="00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1462129041981</updated>
+    </task>
+    <option name="localTasksCounter" value="5" />
     <servers />
   </component>
   <component name="TodoView">
@@ -1213,13 +1219,13 @@
       <window_info id="Terminal" active="true" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.31256714" sideWeight="0.5138593" order="16" side_tool="true" content_ui="tabs" />
       <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.24973376" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.22556391" sideWeight="0.6513859" order="2" side_tool="true" content_ui="tabs" x="21" y="382" width="1878" height="286" />
-      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="FLOATING" visible="true" show_stripe_button="true" weight="0.31256714" sideWeight="0.39285713" order="6" side_tool="true" content_ui="tabs" x="-783" y="709" width="641" height="341" />
+      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="FLOATING" visible="true" show_stripe_button="true" weight="0.31256714" sideWeight="0.39285713" order="6" side_tool="true" content_ui="tabs" x="-603" y="882" width="641" height="341" />
       <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="FLOATING" visible="true" show_stripe_button="true" weight="0.20895523" sideWeight="0.52112675" order="3" side_tool="true" content_ui="tabs" x="-211" y="0" width="211" height="719" />
       <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32760474" sideWeight="0.54850745" order="13" side_tool="false" content_ui="tabs" />
       <window_info id="Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.22556391" sideWeight="0.34861407" order="10" side_tool="false" content_ui="tabs" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32760474" sideWeight="0.4936034" order="5" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="right" auto_hide="true" internal_type="DOCKED" type="FLOATING" visible="false" show_stripe_button="true" weight="0.26865673" sideWeight="0.4801715" order="11" side_tool="true" content_ui="tabs" x="-653" y="0" width="452" height="718" />
-      <window_info id="Maven Projects" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="FLOATING" visible="true" show_stripe_button="true" weight="0.21481876" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" x="-949" y="0" width="422" height="1053" />
+      <window_info id="Maven Projects" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="FLOATING" visible="true" show_stripe_button="true" weight="0.21481876" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" x="-1508" y="890" width="422" height="1053" />
       <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.20895523" sideWeight="0.47887325" order="0" side_tool="false" content_ui="combo" x="-1097" y="-11" width="378" height="1058" />
       <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.31256714" sideWeight="0.48614073" order="17" side_tool="false" content_ui="tabs" x="5" y="80" width="1878" height="122" />
       <window_info id="Documentation" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="FLOATING" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" x="1157" y="310" width="444" height="167" />
@@ -1257,7 +1263,8 @@
     <MESSAGE value="Initial commit" />
     <MESSAGE value="stuff&#10;" />
     <MESSAGE value="Included folders that should have been there in the first place" />
-    <option name="LAST_COMMIT_MESSAGE" value="Included folders that should have been there in the first place" />
+    <MESSAGE value="Removed workspace.xml&#10;" />
+    <option name="LAST_COMMIT_MESSAGE" value="Removed workspace.xml&#10;" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
