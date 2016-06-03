@@ -1,6 +1,5 @@
-package com.coderdojo.prototype_rw_controller.UI;
+package com.coderdojo.prototype_rw_controller;
 
-import com.coderdojo.prototype_rw_controller.KClassesToClassesKt;
 import kotlin.reflect.KClass;
 import org.jetbrains.annotations.NotNull;
 import tornadofx.App;

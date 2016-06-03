@@ -1,4 +1,4 @@
-package com.coderdojo.prototype_rw_controller
+package com.coderdojo.prototype_rw_controller.control
 
 /**
  * First created 4/15/2016 in CoderdojoRobotController

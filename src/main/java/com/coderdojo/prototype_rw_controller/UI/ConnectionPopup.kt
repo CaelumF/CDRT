@@ -2,7 +2,7 @@ package com.coderdojo.prototype_rw_controller.UI
 
 
 import com.coderdojo.Popup
-import com.coderdojo.prototype_rw_controller.WifiRobotController
+import com.coderdojo.prototype_rw_controller.control.WifiRobotController
 import com.gmail.caelum119.utils.FXUtils.TextFieldToNumberField
 import javafx.event.EventHandler
 import javafx.fxml.FXML

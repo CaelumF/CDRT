@@ -9,7 +9,7 @@ import javafx.stage.StageStyle
 /**
  * First created 4/28/2016 in Engine
  */
-public class Popup(val owner: Stage){
+public class Popup(val owner: Stage) {
   val dialog = Stage()
 
   init {
@@ -18,19 +18,19 @@ public class Popup(val owner: Stage){
     dialog.initOwner(owner)
   }
 
-  constructor(owner: Stage, content: Pane): this(owner){
+  constructor(owner: Stage, content: Pane) : this(owner) {
     try {
       dialog.scene = Scene(content)
-    }catch(e: IllegalArgumentException){
+    } catch(e: IllegalArgumentException) {
       //TODO: Fix this properly
     }
   }
 
-  constructor(owner: Stage, content: Pane, modality: Modality): this(owner, content){
+  constructor(owner: Stage, content: Pane, modality: Modality) : this(owner, content) {
     dialog.initModality(modality)
   }
 
-  fun show(){
+  fun show() {
     dialog.show()
   }
 }

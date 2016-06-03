@@ -7,7 +7,7 @@
       <sourceFolder url="file://$MODULE_DIR$/src/main/java" isTestSource="false" />
       <sourceFolder url="file://$MODULE_DIR$/src/main/resources" type="java-resource" />
       <sourceFolder url="file://$MODULE_DIR$/src/test/java" isTestSource="true" />
-      <sourceFolder url="file://$MODULE_DIR$/src" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/src" type="java-resource" />
       <excludeFolder url="file://$MODULE_DIR$/target" />
     </content>
     <orderEntry type="jdk" jdkName="1.8" jdkType="JavaSDK" />
@@ -16,13 +16,13 @@
     <orderEntry type="library" name="Javax JSON" level="project" />
     <orderEntry type="library" name="Kotlin" level="project" />
     <orderEntry type="library" name="libs" level="project" />
+    <orderEntry type="library" name="CaelumsUtils" level="project" />
+    <orderEntry type="library" name="CaelumUtils" level="project" />
     <orderEntry type="library" name="Maven: org.springframework:spring-context:4.3.0.BUILD-SNAPSHOT" level="project" />
     <orderEntry type="library" name="Maven: org.springframework:spring-aop:4.3.0.BUILD-SNAPSHOT" level="project" />
     <orderEntry type="library" name="Maven: org.springframework:spring-beans:4.3.0.BUILD-SNAPSHOT" level="project" />
     <orderEntry type="library" name="Maven: org.springframework:spring-core:4.3.0.BUILD-SNAPSHOT" level="project" />
     <orderEntry type="library" name="Maven: commons-logging:commons-logging:1.2" level="project" />
     <orderEntry type="library" name="Maven: org.springframework:spring-expression:4.3.0.BUILD-SNAPSHOT" level="project" />
-    <orderEntry type="library" name="CaelumsUtils" level="project" />
-    <orderEntry type="library" name="CaelumUtils" level="project" />
   </component>
 </module>
