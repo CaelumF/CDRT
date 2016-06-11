@@ -11,6 +11,9 @@ abstract class Behaviour: NetworkTag() {
      */
     abstract fun onReceive()
 
+    /**
+     * Currently serves no real purpose but debugigng
+     */
     abstract val behaviourIdentifier: String
 
     companion object {

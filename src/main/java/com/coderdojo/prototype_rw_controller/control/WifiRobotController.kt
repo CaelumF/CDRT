@@ -9,6 +9,7 @@ import java.net.Socket
 
 /**
  * First created 4/15/2016 in CoderdojoRobotController
+ * This class is currently useless,
  */
 public class WifiRobotController(address: InetAddress, port: Int) : RobotController() {
     //TODO: Find better singleton-with-constructor-arguments design
@@ -33,16 +34,18 @@ public class WifiRobotController(address: InetAddress, port: Int) : RobotControl
             println("Message received ${received.message}")
         })
     }
-
+    @Deprecated("Currently broken, should pick the best path before fixing")
     override fun moveForward(speed: Float, duration: Float) {
         super.moveForward(speed, duration)
         connectionToChip.sendTag(MoveForward(speed, duration))
     }
 
+    @Deprecated("Currently broken, should pick the best path before fixing")
     override fun moveLWForward(speed: Float, duration: Float) {
         super.moveLWForward(speed, duration)
     }
 
+    @Deprecated("Currently broken, should pick the best path before fixing")
     override fun moveRWForward(speed: Float, duration: Float) {
         super.moveRWForward(speed, duration)
     }
